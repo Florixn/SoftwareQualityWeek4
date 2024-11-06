@@ -1,0 +1,9 @@
+# SPDX-FileCopyrightText: 2024 2024 Florian Trimborn
+#
+# SPDX-License-Identifier: MIT
+
+# Default ignored files
+/shelf/
+/workspace.xml
+out/
+

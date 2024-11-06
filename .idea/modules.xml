@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+SPDX-FileCopyrightText: 2024 2024 Florian Trimborn
+
+SPDX-License-Identifier: MIT
+-->
+
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SoftwareQualityWeek4.iml" filepath="$PROJECT_DIR$/SoftwareQualityWeek4.iml" />
+    </modules>
+  </component>
+</project>
